@@ -23,7 +23,7 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
-
+require_once __DIR__ . '/init.php';
 $MyThemeUpdateChecker = new ThemeUpdateChecker(
 	'theme-slup', //Theme slug. Usually the same as the name of its directory.
 	'http://i.janealam.com/info.json' //Metadata URL.
