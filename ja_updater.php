@@ -5,7 +5,7 @@
  * Description:   The ultimate WordPress Self-hoster Theme Updater
  * Author:        Jane Alam
  * Author URI:    http://janealam.com
- * Version:       1.0
+ * Version:       3.0
  * Text Domain:   jane_alam
  *
  * GitHub Plugin URI: jane-alam/ja_updater
